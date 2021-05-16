@@ -6,6 +6,8 @@
 
 This project was built as a final project for COMP 541 - Digital Logic. 
 
+**Note: Due to honor code restrictions, mips code avaliable by request**
+
 ---
 
 ### Info
